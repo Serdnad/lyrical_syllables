@@ -18,9 +18,9 @@ If you do happen to find words for which the library fails (and are still readin
 The output from running the program on the text in a file called lyrics.txt. Notice the -f flag for reading from a file instead of using the command arg.
 
 For help on how to use the interface, run ```./lyrical --help```.
-![alt text](/screenshots/screenshot1.png)
+<img center="true" src="/screenshots/screenshot1.png" width="50%">
 
 # To Do
-- Add cmd option to output to a file.
-- More tests!
-- Publish as a Crate? (likely won't, unless I receive requests to.)
+[] Add cmd option to output to a file.
+[] More tests!
+[] Publish as a Crate? (no intention to, unless I receive requests to.)
