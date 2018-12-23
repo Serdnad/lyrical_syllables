@@ -21,6 +21,6 @@ For help on how to use the interface, run ```./lyrical --help```.
 <img center="true" src="/screenshots/screenshot1.png" width="50%">
 
 # To Do
-[] Add cmd option to output to a file.
-[] More tests!
-[] Publish as a Crate? (no intention to, unless I receive requests to.)
+- [ ] Add cmd option to output to a file.
+- [ ] More tests!
+- [ ] Publish as a Crate? (no intention to, unless I receive requests to.)
