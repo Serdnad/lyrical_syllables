@@ -1,0 +1,17 @@
+[package]
+name = "lyrical"
+version = "0.1.0"
+authors = ["andres <andresgutierrez535@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "syllables"
+path = "src/lib.rs"
+
+[[bin]]
+name = "lyrical"
+path = "src/main.rs"
+
+[dependencies]
+clap = {version = "2.32", features = ["yaml"]}
+regex = "1.1.0"

@@ -1,0 +1,14 @@
+name: Playground 3
+version: "1.0"
+author: Andres G. <andresg@caltech.edu>
+about: Determines the number of syllables in each line of a text.
+args:
+  - INPUT:
+      help: The text to analyze
+      required: false
+  - file:
+      short: f
+      long: file
+      value_name: PATH
+      help: A plaintext file containing the text to analyze
+      takes_value: true
