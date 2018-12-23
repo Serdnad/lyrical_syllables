@@ -13,3 +13,14 @@ By this process, the library has improved to the point where in a moderate piece
 Described in another way, there are currently no known exception words for which the library fails. However, it's not too improbable that you find some after a decent number of test runs.
 
 If you do happen to find words for which the library fails (and are still reading), reporting it as an issue would be greatly appreciated (:
+
+# Examples
+The output from running the program on the text in a file called lyrics.txt. Notice the -f flag for reading from a file instead of using the command arg.
+
+For help on how to use the interface, run ```./lyrical --help```.
+![alt text](/screenshots/screenshot1.png)
+
+# To Do
+- Add cmd option to output to a file.
+- More tests!
+- Publish as a Crate? (likely won't, unless I receive requests to.)
